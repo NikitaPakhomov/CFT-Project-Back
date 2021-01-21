@@ -1,0 +1,1058 @@
+{
+  "images": [],
+  "movies": [
+    {
+      "id": 513399,
+      "id_kinopoisk": 382307,
+      "url": "514759-dvoynaya-familiya-2006",
+      "type": "movie",
+      "title": "Двойная фамилия",
+      "title_alternative": null,
+      "tagline": null,
+      "description": "У супругов Воздвиженских очень долго  в течение восьми лет  не было детей. Когда же наконец у них родился сын Филипп, глава семьи узнал, что этот ребенок не от него. Воздвиженский решает уйти из дома, однако жалость к беспомощной жене и малышу не позволяет ему это сделать. С каждым днем в нем усиливаются отцовские чувства, и в конце концов Воздвиженский так привязывается к ребенку, что не может жить без него.Но он не в состоянии простить жене измену и остается с ней только ради мальчика, которого любит как родного сына. Однако спустя пять лет этот семейный союз все же окончательно распадается: жена Воздвиженского уходит к отцу ребенка, пообещав своему бывшему мужу, что мальчик будет носить его фамилию, правду же о своем появлении на свет он узнает только после смерти одного из мужчин",
+      "year": 2006,
+      "poster": "//images.kinopoisk.cloud/posters/382307.jpg",
+      "trailer": null,
+      "age": "зрителям, достигшим 16 лет",
+      "actors": [
+        "Оксана Базилевич",
+        "Сергей Барковский",
+        "Олег Штефанко",
+        "Мария Мещерякова",
+        "Татьяна Мишина",
+        "Миша Кожеуров",
+        "Вячеслав Коробицин",
+        "Валентина Касьянова",
+        "Хельга Филиппова",
+        "Татьяна Бедова"
+      ],
+      "countries": [
+        "Россия",
+        "Казахстан"
+      ],
+      "genres": [
+        "Драма"
+      ],
+      "directors": [
+        "Станислав Митин"
+      ],
+      "screenwriters": [
+        "Дина Рубина"
+      ],
+      "producers": [
+        "Виктор Умнов",
+        "Леонард Яновский",
+        "Сергей Каратаев"
+      ],
+      "operators": [
+        "Сергей Юриздицкий"
+      ],
+      "composers": null,
+      "painters": null,
+      "editors": null,
+      "budget": null,
+      "rating_kinopoisk": "7.422",
+      "rating_imdb": "7.1",
+      "kinopoisk_votes": "563",
+      "imdb_votes": "17",
+      "fees_world": null,
+      "fees_russia": null,
+      "premiere_world": "22 ноября 2012",
+      "premiere_russia": null,
+      "frames": null,
+      "screenshots": null,
+      "videocdn": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      },
+      "hdvb": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      },
+      "collapse": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      },
+      "kodik": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      }
+    },
+    {
+      "id": 437885,
+      "id_kinopoisk": 779602,
+      "url": "567901-kto-ya-2014",
+      "type": "movie",
+      "title": "Кто я",
+      "title_alternative": "Who Am I - Kein System ist sicher",
+      "tagline": "«Каждый видит то, что хочет видеть»",
+      "description": "Бенджамин  молодой компьютерный гений. С детства он мечтает стать супергероем из комиксов и покорить мир. Но в реальном мире он  никто. Его жизнь неожиданно меняется, когда он встречает свою полную противоположность  харизматичного Макса. Не желая жить в жёстких рамках системы, они совершают череду дерзких кибер-преступлений. Восстав против равнодушного общества, они становятся кумирами для целого поколения. Теперь Бенджамин  не просто супергерой, он  самый разыскиваемый хакер в мире. Но что его ждёт после погружения в альтернативную реальность? Кто же он на самом деле?",
+      "year": 2014,
+      "poster": "//images.kinopoisk.cloud/posters/779602.jpg",
+      "trailer": "https://www.youtube.com/embed/R7epiAtY09E",
+      "age": "зрителям, достигшим 18 лет",
+      "actors": [
+        "Том Шиллинг",
+        "Элиас ЭмБарек",
+        "Вотан Вильке Мёринг",
+        "Антуан Моно мл.",
+        "Ханна Херцшпрунг",
+        "Штефан Кампвирт",
+        "Трине Дюрхольм",
+        "Леопольд Хорнунг",
+        "Катарина Матц",
+        "Леонард Каров",
+        "Антон Эльдаров",
+        "Сергей Смирнов",
+        "Александр Груздев",
+        "Константин Карасик",
+        "Мария Фортунатова"
+      ],
+      "countries": [
+        "Германия"
+      ],
+      "genres": [
+        "Фантастика",
+        "Триллер",
+        "Драма",
+        "Криминал",
+        "Детектив"
+      ],
+      "directors": [
+        "Баран бо Одар"
+      ],
+      "screenwriters": [
+        "Янтье Фризе",
+        "Баран бо Одар"
+      ],
+      "producers": [
+        "Квирин Берг",
+        "Макс Видеманн",
+        "Штефан Гёртнер"
+      ],
+      "operators": [
+        "Николос Суммерер"
+      ],
+      "composers": [
+        "Михаэль Камм"
+      ],
+      "painters": [
+        "Силке Бур",
+        "Маркус Нордеманн",
+        "Рамона Клиниковски"
+      ],
+      "editors": [
+        "Роберт Жесач"
+      ],
+      "budget": null,
+      "rating_kinopoisk": "7.422",
+      "rating_imdb": "7.6",
+      "kinopoisk_votes": "56983",
+      "imdb_votes": "43048",
+      "fees_world": "$7700259",
+      "fees_russia": "$332109",
+      "premiere_world": "6 сентября 2014",
+      "premiere_russia": "13 августа 2015",
+      "frames": [
+        "https://st.kp.yandex.net/im/kadr/2/4/9/kinopoisk.ru-Who-Am-I-Kein-System-ist-sicher-2490920.jpg",
+        "https://st.kp.yandex.net/im/kadr/2/4/9/kinopoisk.ru-Who-Am-I-Kein-System-ist-sicher-2490921.jpg",
+        "https://st.kp.yandex.net/im/kadr/2/4/9/kinopoisk.ru-Who-Am-I-Kein-System-ist-sicher-2490922.jpg",
+        "https://st.kp.yandex.net/im/kadr/2/4/9/kinopoisk.ru-Who-Am-I-Kein-System-ist-sicher-2490923.jpg",
+        "https://st.kp.yandex.net/im/kadr/2/4/9/kinopoisk.ru-Who-Am-I-Kein-System-ist-sicher-2490924.jpg",
+        "https://st.kp.yandex.net/im/kadr/2/4/9/kinopoisk.ru-Who-Am-I-Kein-System-ist-sicher-2490925.jpg",
+        "https://st.kp.yandex.net/im/kadr/2/4/9/kinopoisk.ru-Who-Am-I-Kein-System-ist-sicher-2490926.jpg",
+        "https://st.kp.yandex.net/im/kadr/2/4/9/kinopoisk.ru-Who-Am-I-Kein-System-ist-sicher-2490927.jpg",
+        "https://st.kp.yandex.net/im/kadr/2/4/9/kinopoisk.ru-Who-Am-I-Kein-System-ist-sicher-2490928.jpg",
+        "https://st.kp.yandex.net/im/kadr/2/4/9/kinopoisk.ru-Who-Am-I-Kein-System-ist-sicher-2490929.jpg",
+        "https://st.kp.yandex.net/im/kadr/2/4/9/kinopoisk.ru-Who-Am-I-Kein-System-ist-sicher-2490930.jpg"
+      ],
+      "screenshots": null,
+      "videocdn": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      },
+      "hdvb": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      },
+      "collapse": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      },
+      "kodik": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      }
+    },
+    {
+      "id": 403399,
+      "id_kinopoisk": 613041,
+      "url": "129426-svetilo-2011",
+      "type": "movie",
+      "title": "Светило",
+      "title_alternative": "Luminaris",
+      "tagline": null,
+      "description": "В мире, где жизнь контролируется светом, живет обычный человек. У него рождается план, способный все изменить.",
+      "year": 2011,
+      "poster": "//images.kinopoisk.cloud/posters/613041.jpg",
+      "trailer": null,
+      "age": null,
+      "actors": [
+        "Gustavo Cornillón",
+        "Мария Альче",
+        "Луис Риал"
+      ],
+      "countries": [
+        "Аргентина"
+      ],
+      "genres": [
+        "Мультфильм",
+        "Короткометражка",
+        "Семейный"
+      ],
+      "directors": [
+        "Хуан Пабло Зарамэлла"
+      ],
+      "screenwriters": [
+        "Хуан Пабло Зарамэлла",
+        "Gustavo Cornillón"
+      ],
+      "producers": [
+        "Silvina Cornillon",
+        "Mario Rulloni",
+        "Sol Rulloni"
+      ],
+      "operators": [
+        "Серджо Пиньейро"
+      ],
+      "composers": [
+        "Osmar Maderna"
+      ],
+      "painters": null,
+      "editors": null,
+      "budget": null,
+      "rating_kinopoisk": "7.422",
+      "rating_imdb": "7.6",
+      "kinopoisk_votes": "695",
+      "imdb_votes": "636",
+      "fees_world": null,
+      "fees_russia": null,
+      "premiere_world": "6 июня 2011",
+      "premiere_russia": null,
+      "frames": [
+        "https://st.kp.yandex.net/im/kadr/1/8/5/kinopoisk.ru-Luminaris-1852931.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/8/5/kinopoisk.ru-Luminaris-1852932.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/8/5/kinopoisk.ru-Luminaris-1852933.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/8/5/kinopoisk.ru-Luminaris-1852934.jpg"
+      ],
+      "screenshots": null,
+      "videocdn": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      },
+      "hdvb": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      },
+      "collapse": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      },
+      "kodik": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      }
+    },
+    {
+      "id": 226557,
+      "id_kinopoisk": 317709,
+      "url": "282170-van-pis-6-2005",
+      "type": "movie",
+      "title": "Ван-Пис 6",
+      "title_alternative": "One piece: Omatsuri danshaku to himitsu no shima",
+      "tagline": null,
+      "description": "Команда Соломенной Шляпы отправляется на остров развлечений для заслуженного отдыха. Однако по прибытии выясняется, что сперва они должны пройти испытания местного Барона. Безбашенный капитан Луффи принимает вызов, не зная какими неприятностями грозит эта игра.",
+      "year": 2005,
+      "poster": "//images.kinopoisk.cloud/posters/317709.jpg",
+      "trailer": null,
+      "age": null,
+      "actors": [
+        "Такэси Аоно",
+        "Сё Аянокодзи",
+        "Кохэй Фукухара",
+        "Кэйдзи Хираи",
+        "Хирата Хироаки",
+        "Сосукэ Икэмацу",
+        "Хидэхико Канэко",
+        "Такэхару Кунимото",
+        "Такэси Кусао",
+        "Дзюнъити Миякэ"
+      ],
+      "countries": [
+        "Япония"
+      ],
+      "genres": [
+        "Аниме",
+        "Мультфильм",
+        "Драма",
+        "Комедия",
+        "Приключения"
+      ],
+      "directors": [
+        "Мамору Хосода"
+      ],
+      "screenwriters": [
+        "Масахиро Ито",
+        "Эйитиро Ода"
+      ],
+      "producers": [
+        "Юсукэ Окада",
+        "Кадзуёси Сэки",
+        "Хироси Такахаси"
+      ],
+      "operators": [
+        "Томокадзу Сиратори"
+      ],
+      "composers": [
+        "Кадзухико Савагути",
+        "Кохэй Танака"
+      ],
+      "painters": [
+        "Тацуя Кусида"
+      ],
+      "editors": [
+        "Масахиро Гото"
+      ],
+      "budget": null,
+      "rating_kinopoisk": "7.422",
+      "rating_imdb": "7.2",
+      "kinopoisk_votes": "462",
+      "imdb_votes": "1247",
+      "fees_world": null,
+      "fees_russia": null,
+      "premiere_world": "5 марта 2005",
+      "premiere_russia": null,
+      "frames": null,
+      "screenshots": null,
+      "videocdn": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      },
+      "hdvb": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      },
+      "collapse": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      },
+      "kodik": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      }
+    },
+    {
+      "id": 45501,
+      "id_kinopoisk": 61518,
+      "url": "319982-vernut-syna-2002",
+      "type": "movie",
+      "title": "Вернуть сына",
+      "title_alternative": "Shakthi: The Power",
+      "tagline": "«Story of a spirited woman whose child was taken away»",
+      "description": "Приехав в Лос-Анжелес к дяде, Нандини знакомится здесь и выходит замуж за Шекхара, уже шесть лет, как осевшего в Америке. Через несколько лет, когда у них уже подрос трехлетний сын, Шекхар узнает о кровавой резне, произошедшей в его родной деревне. Обеспокоенный, он решает съездить туда на несколько дней. Нандини напрашивается поехать вместе с ним и берет с собой сына. Но вскоре ей придется горько пожалеть об этом",
+      "year": 2002,
+      "poster": "//images.kinopoisk.cloud/posters/61518.jpg",
+      "trailer": "https://www.youtube.com/embed/feYbVbrIqSY",
+      "age": "зрителям, достигшим 16 лет",
+      "actors": [
+        "Каришма Капур",
+        "Нана Патекар",
+        "Санджай Капур",
+        "Джей Гидвани",
+        "Шах Рукх Кхан",
+        "Дипти Навал",
+        "Айшвария Рай Баччан",
+        "Виджай Рааз",
+        "Тику Талсания",
+        "Джаспал Бхатти"
+      ],
+      "countries": [
+        "Индия"
+      ],
+      "genres": [
+        "Боевик",
+        "Драма"
+      ],
+      "directors": [
+        "Кришна Вамси"
+      ],
+      "screenwriters": [
+        "Кришна Вамси",
+        "Камал Пандеу"
+      ],
+      "producers": [
+        "Бони Капур",
+        "Шридеви",
+        "Бина Шах"
+      ],
+      "operators": [
+        "Сетху Шрирам"
+      ],
+      "composers": [
+        "Исмаил Дарбар"
+      ],
+      "painters": [
+        "Шийам Сундер",
+        "Притен Патил",
+        "Мандира Шукла"
+      ],
+      "editors": null,
+      "budget": null,
+      "rating_kinopoisk": "7.422",
+      "rating_imdb": "6",
+      "kinopoisk_votes": "625",
+      "imdb_votes": "4377",
+      "fees_world": null,
+      "fees_russia": null,
+      "premiere_world": "20 сентября 2002",
+      "premiere_russia": null,
+      "frames": [
+        "https://st.kp.yandex.net/im/kadr/1/0/8/kinopoisk.ru-Shakthi_3A-The-Power-1083353.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/0/8/kinopoisk.ru-Shakthi_3A-The-Power-1083354.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/0/8/kinopoisk.ru-Shakthi_3A-The-Power-1083355.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/0/8/kinopoisk.ru-Shakthi_3A-The-Power-1083356.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/0/8/kinopoisk.ru-Shakthi_3A-The-Power-1083357.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/0/8/kinopoisk.ru-Shakthi_3A-The-Power-1083358.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/0/8/kinopoisk.ru-Shakthi_3A-The-Power-1083359.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/0/8/kinopoisk.ru-Shakthi_3A-The-Power-1083360.jpg"
+      ],
+      "screenshots": null,
+      "videocdn": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      },
+      "hdvb": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      },
+      "collapse": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      },
+      "kodik": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      }
+    },
+    {
+      "id": 39772,
+      "id_kinopoisk": 45315,
+      "url": "2784-zhestokost-1959",
+      "type": "movie",
+      "title": "Жестокость",
+      "title_alternative": null,
+      "tagline": null,
+      "description": "Криминальная драма о борьбе сотрудников уголовного розыска с бандитами в первые годы советской власти.",
+      "year": 1959,
+      "poster": "//images.kinopoisk.cloud/posters/45315.jpg",
+      "trailer": "https://www.youtube.com/embed/LZjPHQefkoY",
+      "age": "для любой зрительской аудитории",
+      "actors": [
+        "Георгий Юматов",
+        "Борис Андреев",
+        "Николай Крючков",
+        "Александр Суснин",
+        "Владимир Андреев",
+        "Клавдия Хабарова",
+        "Петр Тимофеев",
+        "Маргарита Жигунова",
+        "Зоя Русина",
+        "Владимир Лебедев"
+      ],
+      "countries": [
+        "СССР"
+      ],
+      "genres": [
+        "Драма",
+        "Криминал"
+      ],
+      "directors": [
+        "Владимир Скуйбин"
+      ],
+      "screenwriters": [
+        "Павел Нилин"
+      ],
+      "producers": null,
+      "operators": [
+        "Тимофей Лебешев"
+      ],
+      "composers": [
+        "Михаил Меерович"
+      ],
+      "painters": [
+        "Иван Пластинкин"
+      ],
+      "editors": [
+        "Лидия Лысенкова"
+      ],
+      "budget": null,
+      "rating_kinopoisk": "7.422",
+      "rating_imdb": "7.5",
+      "kinopoisk_votes": "465",
+      "imdb_votes": "60",
+      "fees_world": null,
+      "fees_russia": null,
+      "premiere_world": "7 июля 1959",
+      "premiere_russia": null,
+      "frames": null,
+      "screenshots": [
+        "https://st.kp.yandex.net/im/kadr/1/1/7/kinopoisk.ru-Zhestokost-1174407.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/7/kinopoisk.ru-Zhestokost-1174408.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/7/kinopoisk.ru-Zhestokost-1174409.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/7/kinopoisk.ru-Zhestokost-1174410.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/7/kinopoisk.ru-Zhestokost-1174411.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/7/kinopoisk.ru-Zhestokost-1174412.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/7/kinopoisk.ru-Zhestokost-1174413.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/7/kinopoisk.ru-Zhestokost-1174414.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/7/kinopoisk.ru-Zhestokost-1174415.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/7/kinopoisk.ru-Zhestokost-1174416.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/7/kinopoisk.ru-Zhestokost-1174417.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/7/kinopoisk.ru-Zhestokost-1174418.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/7/kinopoisk.ru-Zhestokost-1174419.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/7/kinopoisk.ru-Zhestokost-1174420.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/7/kinopoisk.ru-Zhestokost-1174421.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/7/kinopoisk.ru-Zhestokost-1174422.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/7/kinopoisk.ru-Zhestokost-1174423.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/7/kinopoisk.ru-Zhestokost-1174424.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/7/kinopoisk.ru-Zhestokost-1174425.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/7/kinopoisk.ru-Zhestokost-1174426.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/7/kinopoisk.ru-Zhestokost-1174427.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/7/kinopoisk.ru-Zhestokost-1174428.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/7/kinopoisk.ru-Zhestokost-1174429.jpg"
+      ],
+      "videocdn": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      },
+      "hdvb": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      },
+      "collapse": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      },
+      "kodik": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      }
+    },
+    {
+      "id": 38045,
+      "id_kinopoisk": 46455,
+      "url": "100201-nochnoy-gost-1958",
+      "type": "movie",
+      "title": "Ночной гость",
+      "title_alternative": null,
+      "tagline": null,
+      "description": "Поздним летним вечером в домике на берегу красивого озера, где обычно останавливаются рыболовы, появляется еще один гость  Пал Палыч.Вскоре хозяйка, и все постояльцы начинают чувствовать, что за внешним обаянием, за пустой красивой фразой скрывается равнодушный и очень эгоистичный человек.",
+      "year": 1958,
+      "poster": "//images.kinopoisk.cloud/posters/46455.jpg",
+      "trailer": "https://www.youtube.com/embed/ZS-UMUuLmwE",
+      "age": null,
+      "actors": [
+        "Иннокентий Смоктуновский",
+        "Александра Панова",
+        "Любовь Соколова",
+        "Валентина Пугачева",
+        "Николай Елизаров",
+        "Георгий Жжёнов",
+        "Михаил Глузский",
+        "Игорь Ефимов",
+        "Татьяна Хабло",
+        "Юрий Лепешкин"
+      ],
+      "countries": [
+        "СССР"
+      ],
+      "genres": [
+        "Драма"
+      ],
+      "directors": [
+        "Владимир Шредель"
+      ],
+      "screenwriters": [
+        "Юрий Нагибин"
+      ],
+      "producers": null,
+      "operators": [
+        "Владимир Бурыкин"
+      ],
+      "composers": [
+        "Надежда Симонян"
+      ],
+      "painters": [
+        "Абрам Векслер"
+      ],
+      "editors": [
+        "М. Бернадская"
+      ],
+      "budget": null,
+      "rating_kinopoisk": "7.422",
+      "rating_imdb": "7.1",
+      "kinopoisk_votes": "269",
+      "imdb_votes": "29",
+      "fees_world": null,
+      "fees_russia": null,
+      "premiere_world": "11 ноября 1958",
+      "premiere_russia": null,
+      "frames": null,
+      "screenshots": [
+        "https://st.kp.yandex.net/im/kadr/1/7/9/kinopoisk.ru-Nochnoy-gost-1794685.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/7/9/kinopoisk.ru-Nochnoy-gost-1794686.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/7/9/kinopoisk.ru-Nochnoy-gost-1794687.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/7/9/kinopoisk.ru-Nochnoy-gost-1794688.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/7/9/kinopoisk.ru-Nochnoy-gost-1794689.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/7/9/kinopoisk.ru-Nochnoy-gost-1794690.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/7/9/kinopoisk.ru-Nochnoy-gost-1794691.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/7/9/kinopoisk.ru-Nochnoy-gost-1794692.jpg"
+      ],
+      "videocdn": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      },
+      "hdvb": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      },
+      "collapse": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      },
+      "kodik": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      }
+    },
+    {
+      "id": 20735,
+      "id_kinopoisk": 4331,
+      "url": "493543-cvet-deneg-1986",
+      "type": "movie",
+      "title": "Цвет денег",
+      "title_alternative": "The Color of Money",
+      "tagline": "«The hustler isn&#039;t what he used to be, but he has the next best thing: a kid who is»",
+      "description": "Быстрому Эдди, виртуозному игроку в бильярд, нет равных за зеленым столом. Для других это развлечение, для него  серьезная работа и большие деньги. У него появляется конкурент, новичок Винс, у которого есть все, что нужно для победы: талант, везение и поддержка обворожительной подруги, но ему не хватает почерка мастера.Эдди становится его наставником и учит восходящую звезду тонкостям большой игры. На зеленом сукне, цвета денег, один на один с судьбой",
+      "year": 1986,
+      "poster": "//images.kinopoisk.cloud/posters/4331.jpg",
+      "trailer": "https://www.youtube.com/embed/k7gmrKAFshE",
+      "age": "зрителям, достигшим 16 лет",
+      "actors": [
+        "Пол Ньюман",
+        "Том Круз",
+        "Мэри Элизабет Мастрантонио",
+        "Хелен Шейвер",
+        "Джон Туртурро",
+        "Билл Коббс",
+        "Роберт Эджинс",
+        "Элвин Анастасия",
+        "Рэндолл  Арни",
+        "Элизабет Бракко",
+        "Владимир Еремин",
+        "Егор Грамматиков",
+        "Ольга Голованова",
+        "Марина Тарасова",
+        "Александр Белый"
+      ],
+      "countries": [
+        "США"
+      ],
+      "genres": [
+        "Драма",
+        "Спорт"
+      ],
+      "directors": [
+        "Мартин Скорсезе"
+      ],
+      "screenwriters": [
+        "Ричард Прайс",
+        "Уолтер Тевис"
+      ],
+      "producers": [
+        "Ирвинг Аксельрод",
+        "Барбара Де Фина",
+        "Доди Фостер"
+      ],
+      "operators": [
+        "Михаэль Балльхаус"
+      ],
+      "composers": [
+        "Робби Робертсон"
+      ],
+      "painters": [
+        "Борис Левен",
+        "Ричард Бруно",
+        "Карен О’Хара"
+      ],
+      "editors": [
+        "Тельма Скунмейкер"
+      ],
+      "budget": "$10000000",
+      "rating_kinopoisk": "7.422",
+      "rating_imdb": "7",
+      "kinopoisk_votes": "8225",
+      "imdb_votes": "70483",
+      "fees_world": null,
+      "fees_russia": null,
+      "premiere_world": "8 октября 1986",
+      "premiere_russia": null,
+      "frames": [
+        "https://st.kp.yandex.net/im/kadr/7/1/2/kinopoisk.ru-The-Color-of-Money-712994.jpg",
+        "https://st.kp.yandex.net/im/kadr/7/1/2/kinopoisk.ru-The-Color-of-Money-712996.jpg",
+        "https://st.kp.yandex.net/im/kadr/7/1/2/kinopoisk.ru-The-Color-of-Money-712997.jpg",
+        "https://st.kp.yandex.net/im/kadr/7/1/2/kinopoisk.ru-The-Color-of-Money-712998.jpg",
+        "https://st.kp.yandex.net/im/kadr/8/6/1/kinopoisk.ru-The-Color-of-Money-861557.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/5/5/kinopoisk.ru-The-Color-of-Money-1551070.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/5/5/kinopoisk.ru-The-Color-of-Money-1551071.jpg",
+        "https://st.kp.yandex.net/im/kadr/2/6/9/kinopoisk.ru-The-Color-of-Money-2697488.jpg",
+        "https://st.kp.yandex.net/im/kadr/2/6/9/kinopoisk.ru-The-Color-of-Money-2697489.jpg",
+        "https://st.kp.yandex.net/im/kadr/2/6/9/kinopoisk.ru-The-Color-of-Money-2697490.jpg",
+        "https://st.kp.yandex.net/im/kadr/2/6/9/kinopoisk.ru-The-Color-of-Money-2697491.jpg",
+        "https://st.kp.yandex.net/im/kadr/2/6/9/kinopoisk.ru-The-Color-of-Money-2697492.jpg",
+        "https://st.kp.yandex.net/im/kadr/2/6/9/kinopoisk.ru-The-Color-of-Money-2697493.jpg",
+        "https://st.kp.yandex.net/im/kadr/2/6/9/kinopoisk.ru-The-Color-of-Money-2697494.jpg",
+        "https://st.kp.yandex.net/im/kadr/2/6/9/kinopoisk.ru-The-Color-of-Money-2697495.jpg",
+        "https://st.kp.yandex.net/im/kadr/2/6/9/kinopoisk.ru-The-Color-of-Money-2697496.jpg",
+        "https://st.kp.yandex.net/im/kadr/2/6/9/kinopoisk.ru-The-Color-of-Money-2697497.jpg",
+        "https://st.kp.yandex.net/im/kadr/2/6/9/kinopoisk.ru-The-Color-of-Money-2697498.jpg",
+        "https://st.kp.yandex.net/im/kadr/2/6/9/kinopoisk.ru-The-Color-of-Money-2697499.jpg",
+        "https://st.kp.yandex.net/im/kadr/2/6/9/kinopoisk.ru-The-Color-of-Money-2697500.jpg",
+        "https://st.kp.yandex.net/im/kadr/2/6/9/kinopoisk.ru-The-Color-of-Money-2697501.jpg",
+        "https://st.kp.yandex.net/im/kadr/2/6/9/kinopoisk.ru-The-Color-of-Money-2697502.jpg"
+      ],
+      "screenshots": [
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154854.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154855.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154856.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154857.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154858.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154859.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154860.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154861.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154862.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154863.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154864.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154865.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154866.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154867.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154868.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154869.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154870.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154871.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154872.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154873.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154874.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154875.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154876.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154877.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154878.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154879.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154880.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154881.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154882.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154883.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154884.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154885.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154886.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154887.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154888.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154889.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154890.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154891.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154892.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154893.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154894.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154895.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154896.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154897.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154898.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154899.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154900.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154901.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154902.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154903.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154913.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154914.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154915.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154916.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154917.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154918.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154919.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154920.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154921.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154922.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154923.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154924.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154925.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154926.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154927.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154928.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154929.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154930.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154931.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154932.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154933.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154934.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154935.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154936.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154937.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154938.jpg",
+        "https://st.kp.yandex.net/im/kadr/1/1/5/kinopoisk.ru-The-Color-of-Money-1154939.jpg"
+      ],
+      "videocdn": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      },
+      "hdvb": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      },
+      "collapse": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      },
+      "kodik": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      }
+    },
+    {
+      "id": 570809,
+      "id_kinopoisk": 579487,
+      "url": "580662-pesochnica-odin-den-iz-zhizni-nyu-yorka-2010",
+      "type": "movie",
+      "title": "Песочница: Один день из жизни Нью-Йорка",
+      "title_alternative": "The Sandpit",
+      "tagline": null,
+      "description": "Фильм об одном дне жизни Нью-Йорка в миниатюре.",
+      "year": 2010,
+      "poster": "//images.kinopoisk.cloud/posters/579487.jpg",
+      "trailer": null,
+      "age": null,
+      "actors": null,
+      "countries": [
+        "США"
+      ],
+      "genres": [
+        "Короткометражка",
+        "Музыка"
+      ],
+      "directors": [
+        "Сэм О’Харе"
+      ],
+      "screenwriters": null,
+      "producers": [
+        "Sara Eolin"
+      ],
+      "operators": [
+        "Сэм О’Харе"
+      ],
+      "composers": [
+        "Mike Jurasits"
+      ],
+      "painters": null,
+      "editors": [
+        "Сэм О’Харе"
+      ],
+      "budget": null,
+      "rating_kinopoisk": "7.421",
+      "rating_imdb": "7.3",
+      "kinopoisk_votes": "105",
+      "imdb_votes": "23",
+      "fees_world": null,
+      "fees_russia": null,
+      "premiere_world": null,
+      "premiere_russia": null,
+      "frames": null,
+      "screenshots": null,
+      "videocdn": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      },
+      "hdvb": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      },
+      "collapse": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      },
+      "kodik": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      }
+    },
+    {
+      "id": 562395,
+      "id_kinopoisk": 407010,
+      "url": "565074-iisus-hristos-spasitel-2008",
+      "type": "movie",
+      "title": "Иисус Христос спаситель",
+      "title_alternative": "Jesus Christus Erlöser",
+      "tagline": null,
+      "description": null,
+      "year": 2008,
+      "poster": "//images.kinopoisk.cloud/posters/407010.jpg",
+      "trailer": "https://www.youtube.com/embed/xH1JR8R3ENk",
+      "age": null,
+      "actors": [
+        "Клаус Кински"
+      ],
+      "countries": [
+        "Германия"
+      ],
+      "genres": [
+        "Документальный"
+      ],
+      "directors": [
+        "Питер Гейер"
+      ],
+      "screenwriters": [
+        "Питер Гейер",
+        "Клаус Кински"
+      ],
+      "producers": [
+        "Питер Гейер",
+        "Майкл Дрехер"
+      ],
+      "operators": null,
+      "composers": [
+        "Florian Käppler",
+        "Daniel Requardt"
+      ],
+      "painters": null,
+      "editors": [
+        "Konrad Bohley",
+        "Майкл Дрехер",
+        "Питер Гейер"
+      ],
+      "budget": null,
+      "rating_kinopoisk": "7.421",
+      "rating_imdb": "7.8",
+      "kinopoisk_votes": "70",
+      "imdb_votes": "459",
+      "fees_world": null,
+      "fees_russia": null,
+      "premiere_world": "11 февраля 2008",
+      "premiere_russia": null,
+      "frames": [
+        "https://st.kp.yandex.net/im/kadr/8/5/6/kinopoisk.ru-Jesus-Christus-Erl_26_23246_3Bser-856875.jpg",
+        "https://st.kp.yandex.net/im/kadr/8/5/6/kinopoisk.ru-Jesus-Christus-Erl_26_23246_3Bser-856876.jpg",
+        "https://st.kp.yandex.net/im/kadr/8/5/6/kinopoisk.ru-Jesus-Christus-Erl_26_23246_3Bser-856877.jpg",
+        "https://st.kp.yandex.net/im/kadr/8/5/6/kinopoisk.ru-Jesus-Christus-Erl_26_23246_3Bser-856878.jpg"
+      ],
+      "screenshots": null,
+      "videocdn": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      },
+      "hdvb": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      },
+      "collapse": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      },
+      "kodik": {
+        "url": null,
+        "quality": null,
+        "duration": null,
+        "voice": null
+      }
+    }
+  ],
+  "pagination": {
+    "current_page": "https://api.kinopoisk.cloud/movies/all/page/666/token/a4f81567b0291ea382c2eeafc18f26e4",
+    "end_page": "https://api.kinopoisk.cloud/movies/all/page/59896/token/a4f81567b0291ea382c2eeafc18f26e4",
+    "total_pages": 59896
+  }
+}
