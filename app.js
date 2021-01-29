@@ -3,7 +3,9 @@ const express = require('express');
 const multer = require('multer');
 const bodyParser = require('body-parser');
 const db = require('./db');
+const commentdb = require('./commentdb');
 const { dir } = require('console');
+var urlencodedParser = bodyParser.urlencoded({ extended: false })
 
 const app = express();
 
@@ -28,7 +30,7 @@ app.use(function (req, res, next) {
 
 
 app.get('/', function (req, res) {
-  res.send('Главная страница');
+  res.send(commentdb);
 })
 
 
@@ -40,13 +42,16 @@ app.get('/films', function (req, res) {
   res.send(db);
 })
 
-app.get('/films/:filmName', function (req, res) {
+app.get('/films/:filmId', function (req, res) {
   let hp = JSON.stringify(db);
   hp = JSON.parse(hp);
+  let fi = JSON.stringify(commentdb);
+  fi = JSON.parse(fi);
   try {
     for (let i = 0; i < hp["movies"].length; i++) {
-      if (hp["movies"][i].title == req.params.filmName.replace(/_/g, ' ')) {
-        res.send(hp["movies"][i]);
+      if (hp["movies"][i].id == req.params.filmId) {
+        let id = hp["movies"][i].id;
+        res.send([hp["movies"][i], fi[id]]);
       }
     }
     throw new Error('Такого фильма нет  ¯\\_(ツ)_/¯');
@@ -71,6 +76,39 @@ app.post('/upload', upload.single('image'), function (req, res, next) {
 
   res.json({ status: 'OK', data: image })
 });
+
+// app.post('/newcomment', urlencodedParser, function (req, res) {
+//   const text = req.body.text;
+//   const image = {
+//     id: String(Math.random()).slice(2),
+//     imageUrl: `http://localhost:8080/uploads/${file.filename}`
+//   }
+//   try {
+//     db.get('images')
+//       .push(image)
+//       .write();
+//   } catch (error) {
+//     throw new Error(error);
+//   }
+//   res.send(req.body.text);
+// })
+app.post('/films/:filmId', urlencodedParser, function (req, res) {
+  const text = req.body.text;
+  const newComment = {
+    "user": "anonim", "message": `${text}`
+  }
+  try {
+    if (!commentdb.get(`${req.params.filmId}`).value()) {
+      commentdb.set(`${req.params.filmId}`, []).write()
+    }
+    commentdb.get(`${req.params.filmId}`)
+      .push(newComment)
+      .write();
+  } catch (error) {
+    throw new Error(error);
+  }
+  res.send("qwe");
+})
 
 app.listen(8080, () => console.log('listening at 8080...'));
 
