@@ -83,8 +83,9 @@ app.post('/upload', upload.single('image'), function (req, res, next) {
 
 app.post('/films/:filmId', urlencodedParser, function (req, res) {
   const text = req.body.text;
+  const user = req.body.user || "anonim";
   const newComment = {
-    "user": "anonim", "message": `${text}`
+    "user": `${user}`, "message": `${text}`
   }
   try {
     if (!commentdb.get(`${req.params.filmId}`).value()) {
@@ -107,17 +108,31 @@ app.post('/login', urlencodedParser, function (req, res) {
       res.send('Error');
     } else {
       if (usersdb.get(`${login}`).get('password') == password) {
-        res.send('work');
+        res.send(usersdb.get(`${login}`));
       } else {
         res.send('Error');
       }
     }
-
-
   } catch (error) {
     throw new Error(error);
   }
+})
 
+app.post('/auth', urlencodedParser, function (req, res) {
+  const login = req.body.login;
+  const password = req.body.password;
+  const image = req.body.img || "123";
+  try {
+    if (usersdb.get(`${login}`).value()) {
+      res.send('Registered');
+    } else {
+      usersdb.set(`${login}`, { password: password, image: image }).write();
+
+      res.send("Получилось");
+    }
+  } catch (error) {
+    throw new Error(error);
+  }
 })
 
 app.listen(8080, () => console.log('listening at 8080...'));
