@@ -1,0 +1,10 @@
+{
+  "Admin": {
+    "password": "123",
+    "img": "213"
+  },
+  "Student": {
+    "password": "qwerty",
+    "img": "213"
+  }
+}

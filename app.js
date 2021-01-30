@@ -2,10 +2,14 @@ const path = require('path');
 const express = require('express');
 const multer = require('multer');
 const bodyParser = require('body-parser');
+var urlencodedParser = bodyParser.urlencoded({ extended: false })
+
 const db = require('./db');
 const commentdb = require('./commentdb');
+const usersdb = require('./usersdb.js');
+
+
 const { dir } = require('console');
-var urlencodedParser = bodyParser.urlencoded({ extended: false })
 
 const app = express();
 
@@ -77,21 +81,6 @@ app.post('/upload', upload.single('image'), function (req, res, next) {
   res.json({ status: 'OK', data: image })
 });
 
-// app.post('/newcomment', urlencodedParser, function (req, res) {
-//   const text = req.body.text;
-//   const image = {
-//     id: String(Math.random()).slice(2),
-//     imageUrl: `http://localhost:8080/uploads/${file.filename}`
-//   }
-//   try {
-//     db.get('images')
-//       .push(image)
-//       .write();
-//   } catch (error) {
-//     throw new Error(error);
-//   }
-//   res.send(req.body.text);
-// })
 app.post('/films/:filmId', urlencodedParser, function (req, res) {
   const text = req.body.text;
   const newComment = {
@@ -107,7 +96,28 @@ app.post('/films/:filmId', urlencodedParser, function (req, res) {
   } catch (error) {
     throw new Error(error);
   }
-  res.send("qwe");
+  res.send();
+})
+
+app.post('/login', urlencodedParser, function (req, res) {
+  const login = req.body.login;
+  const password = req.body.password;
+  try {
+    if (!usersdb.get(`${login}`).value()) {
+      res.send('Error');
+    } else {
+      if (usersdb.get(`${login}`).get('password') == password) {
+        res.send('work');
+      } else {
+        res.send('Error');
+      }
+    }
+
+
+  } catch (error) {
+    throw new Error(error);
+  }
+
 })
 
 app.listen(8080, () => console.log('listening at 8080...'));
