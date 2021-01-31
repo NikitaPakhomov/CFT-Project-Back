@@ -63,6 +63,11 @@ app.get('/films/:filmId', function (req, res) {
     res.send(err.message);
   }
 })
+app.get('/topfilms', function (req, res) {
+  res.send(db.get('movies').sortBy('rating_imdb').take(10));
+
+})
+
 
 app.post('/upload', upload.single('image'), function (req, res, next) {
   const { file } = req;
@@ -83,7 +88,7 @@ app.post('/upload', upload.single('image'), function (req, res, next) {
 
 app.post('/films/:filmId', urlencodedParser, function (req, res) {
   const text = req.body.text;
-  const user = req.body.user || "anonim";
+  const user = req.body.user;
   const newComment = {
     "user": `${user}`, "message": `${text}`
   }
@@ -94,10 +99,11 @@ app.post('/films/:filmId', urlencodedParser, function (req, res) {
     commentdb.get(`${req.params.filmId}`)
       .push(newComment)
       .write();
+    res.send(commentdb.get(`${req.params.filmId}`));
   } catch (error) {
     throw new Error(error);
   }
-  res.send();
+
 })
 
 app.post('/login', urlencodedParser, function (req, res) {
