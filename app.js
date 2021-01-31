@@ -68,15 +68,16 @@ app.get('/films/:filmId', function (req, res) {
 app.get('/usercollection/:user', function (req, res) {
   let filmCollection = [];
   try {
-    const count = usersdb.get(`${req.params.user}`).get('collection').size().value();
+    const count = usersdb.get(`${req.params.user}`).get('collection').size();
     if (usersdb.get(`${req.params.user}`).get('collection') && usersdb.get(`${req.params.user}`).get('collection') != []) {
       for (let i = 0; i < count; i++) {
+        let id = usersdb.get(`${req.params.user}`).get('collection').value()[i];
         filmCollection.push(
           db.get("movies")
             .find(
-              { id: usersdb.get(`${req.params.user}`).get('collection')[i].value() }
+              { "id": Number(id) }
             )
-            .value());
+        );
       }
       res.send(filmCollection);
     }
@@ -114,12 +115,18 @@ app.post('/upload', upload.single('image'), function (req, res, next) {
 
 app.post('/usercollection', urlencodedParser, function (req, res) {
   const { user, id } = req.body;
+  const count = usersdb.get(`${user}`).get('collection').size();
   try {
     if (!usersdb.get(`${user}`).get('collection').value()) {
       usersdb.get(`${user}`).set('collection', []).write();
     }
+    for (let i = 0; i < count; i++) {
+      if (usersdb.get(`${user}`).get('collection').value()[i] == `${id}`) {
+        throw new Error('уже есть');
+      }
+    }
     usersdb.get(`${user}`).get('collection').push(`${id}`).write();
-    res.send("ok");
+
   } catch (error) {
     res.send(error);
   }
