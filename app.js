@@ -43,6 +43,7 @@ app.get('/login', function (req, res) {
 })
 
 app.get('/films', function (req, res) {
+
   res.send(db);
 })
 
@@ -63,6 +64,30 @@ app.get('/films/:filmId', function (req, res) {
     res.send(err.message);
   }
 })
+
+app.get('/usercollection/:user', function (req, res) {
+  let filmCollection = [];
+  try {
+    const count = usersdb.get(`${req.params.user}`).get('collection').size().value();
+    if (usersdb.get(`${req.params.user}`).get('collection') && usersdb.get(`${req.params.user}`).get('collection') != []) {
+      for (let i = 0; i < count; i++) {
+        filmCollection.push(
+          db.get("movies")
+            .find(
+              { id: usersdb.get(`${req.params.user}`).get('collection')[i].value() }
+            )
+            .value());
+      }
+      res.send(filmCollection);
+    }
+    res.send("not");
+  } catch (error) {
+    res.send('Фильмы не найдены ');
+  }
+
+
+})
+
 app.get('/topfilms', function (req, res) {
   res.send(db.get('movies').sortBy('rating_imdb').take(10));
 
@@ -85,6 +110,21 @@ app.post('/upload', upload.single('image'), function (req, res, next) {
 
   res.json({ status: 'OK', data: image })
 });
+
+
+app.post('/usercollection', urlencodedParser, function (req, res) {
+  const { user, id } = req.body;
+  try {
+    if (!usersdb.get(`${user}`).get('collection').value()) {
+      usersdb.get(`${user}`).set('collection', []).write();
+    }
+    usersdb.get(`${user}`).get('collection').push(`${id}`).write();
+    res.send("ok");
+  } catch (error) {
+    res.send(error);
+  }
+
+})
 
 app.post('/films/:filmId', urlencodedParser, function (req, res) {
   const text = req.body.text;
