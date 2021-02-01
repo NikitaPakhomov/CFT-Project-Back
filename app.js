@@ -94,6 +94,19 @@ app.get('/topfilms', function (req, res) {
 
 })
 
+app.get('/toptenfilms', function (req, res) {
+  res.send(db.get('movies').sortBy('rating_imdb').take(20).sortBy('year').take(10));
+
+})
+app.get('/topbudgetfilms', function (req, res) {
+  res.send(db.get('movies').sortBy('budget').take(10));
+
+})
+app.get('/topcassfilms', function (req, res) {
+  res.send(db.get('movies').sortBy('fees_world').take(10));
+
+})
+
 
 app.post('/upload', upload.single('image'), function (req, res, next) {
   const { file } = req;
